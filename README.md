@@ -1,4 +1,4 @@
-# Transformez une maquette en site web avec HTML & CSS
+# Construisez un site e-commerce en JavaScript
 ### Kanap - Une gamme d'articles exclusifs
 _Projet 5 - Formation Développeu.r.se Web - septembre et octobre 2022 - Openclassrooms_
 
